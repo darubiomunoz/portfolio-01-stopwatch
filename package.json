@@ -4,7 +4,7 @@
   "description": "'Project number 01 of the portfolio - Stopwatch using HTML5, CSS3, and JavaScript (Vanilla)'",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server"
   },
   "keywords": [
     "HTML",
@@ -17,5 +17,8 @@
     "Media-queries"
   ],
   "author": "Diego Antonio Rubio Muñoz <darubiomunoz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
