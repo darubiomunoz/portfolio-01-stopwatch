@@ -1,0 +1,21 @@
+{
+  "name": "project-01-stopwatch",
+  "version": "1.0.0",
+  "description": "'Project number 01 of the portfolio - Stopwatch using HTML5, CSS3, and JavaScript (Vanilla)'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Vanilla",
+    "Portfolio",
+    "Stopwatch",
+    "Responsive-Design",
+    "Media-queries"
+  ],
+  "author": "Diego Antonio Rubio Muñoz <darubiomunoz@gmail.com>",
+  "license": "MIT"
+}
