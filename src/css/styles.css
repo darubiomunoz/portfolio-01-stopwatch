@@ -74,6 +74,9 @@ body{
     font-weight: 600;
     outline: none;
 }
+.main .main-interaction .main-interaction-buttonReset{
+    margin-right: 0;
+}
 .main .main-interaction .main-interaction-buttonStart:hover{
     background-color: var(--color-green);
 }
