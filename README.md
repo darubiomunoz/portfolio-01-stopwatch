@@ -13,6 +13,8 @@ I got stuck many times trying to figure out how to use setInterval, clearInterva
 
 Please check the code and full project. Any advice and help is appreciated.
 
+https://github.com/darubiomunoz/portfolio-01-stopwatch/settings
+
 -------------------------------------------------------------------
 FR.
 
@@ -29,6 +31,8 @@ J'ai été piégé beaucoup fois en essayant de trouver un façon d'implémenter
 
 S'il vous plait, vérifier le code et projet complet. Tout conseil ou aide sera apprécié.
 
+https://github.com/darubiomunoz/portfolio-01-stopwatch/settings
+
 -------------------------------------------------------------------
 ES.
 
@@ -44,3 +48,5 @@ Decidí desarrollar un Cronómetro desde cero y fue un desafío decente, conside
 Quedé atrapado muchas veces tratando de encontrar la forma de implementar clearInterval, setInterval y otras partes de la lógica del proyecto, lo que me hizo sentir frustrado muchas veces. Pero sabía que tenía que pasar por todas esas emociones, persistir para poder terminar el cronómetro y así desarrollar mis habilidades escribiendo codigo.
 
 Por favor, revisa el código y proyecto completo. Cualquier consejo o ayuda es apreciada.
+
+https://github.com/darubiomunoz/portfolio-01-stopwatch/settings
