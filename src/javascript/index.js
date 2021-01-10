@@ -39,7 +39,9 @@ function resetCount() {
 }
 
 function startCount() {
-    interval = setInterval(myChronometer, 10);
+    if(counterMLSEC === 0 || start.innerHTML === 'Resume') {
+        interval = setInterval(myChronometer, 10);
+    }
     if(start.innerHTML === 'Resume') {
         start.innerHTML = 'Start';
     }
