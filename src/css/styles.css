@@ -79,9 +79,11 @@ body{
 }
 .main .main-interaction .main-interaction-buttonStart:hover{
     background-color: var(--color-green);
+    color: var(--color-black);
 }
 .main .main-interaction .main-interaction-buttonStop:hover{
     background-color: var(--color-red);
+    color: var(--color-black);
 }
 .main .main-interaction .main-interaction-buttonReset:hover{
     background-color: var(--color-black);
