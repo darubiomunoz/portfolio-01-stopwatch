@@ -97,7 +97,7 @@ body{
     text-align: center;
 }
 .footer-info {
-    font-size: .5em;
+    font-size: 1em;
 }
 .footer-info-name a{
     color: var(--color-white);
