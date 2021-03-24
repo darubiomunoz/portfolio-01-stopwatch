@@ -13,7 +13,7 @@ I got stuck many times trying to figure out how to use setInterval, clearInterva
 
 Please check the code and full project. Any advice and help is appreciated.
 
-https://github.com/darubiomunoz/portfolio-01-stopwatch/
+https://darubiomunoz.github.io/portfolio-01-stopwatch/
 
 -------------------------------------------------------------------
 FR.
@@ -31,7 +31,7 @@ J'ai été piégé beaucoup fois en essayant de trouver un façon d'implémenter
 
 S'il vous plait, vérifier le code et projet complet. Tout conseil ou aide sera apprécié.
 
-https://github.com/darubiomunoz/portfolio-01-stopwatch/
+https://darubiomunoz.github.io/portfolio-01-stopwatch/
 
 -------------------------------------------------------------------
 ES.
@@ -49,4 +49,4 @@ Quedé atrapado muchas veces tratando de encontrar la forma de implementar clear
 
 Por favor, revisa el código y proyecto completo. Cualquier consejo o ayuda es apreciada.
 
-https://github.com/darubiomunoz/portfolio-01-stopwatch/
+https://darubiomunoz.github.io/portfolio-01-stopwatch/
